@@ -7,5 +7,5 @@ func main() {
 	b := 4
 
 	c := a + b
-	fmt.Println(c)
+	fmt.Println("The sum is", c)
 }
